@@ -5,6 +5,15 @@
   },
   "plugins": [
     {
+      "name": "neo-perion",
+      "displayName": "Neo Perion",
+      "source": "./neo-perion",
+      "description": "Cross-functional operator for Neo Perion Solutions — leads and proposals/SOWs, Jira project delivery, client support, and ops, with shared memory of clients, projects, and team. Wired for Google Workspace, Notion, and Jira.",
+      "author": {
+        "name": "Neo Perion Solutions"
+      }
+    },
+    {
       "name": "productivity",
       "displayName": "Productivity",
       "source": "./productivity",

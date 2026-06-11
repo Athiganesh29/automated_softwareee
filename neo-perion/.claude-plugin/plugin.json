@@ -1,0 +1,8 @@
+{
+  "name": "neo-perion",
+  "version": "0.1.0",
+  "description": "Turn Claude into a cross-functional operator for Neo Perion Solutions — sales and proposals, project delivery, client support, and ops, with shared memory of your clients, projects, and team. Wired for Google Workspace, Notion, and Jira.",
+  "author": {
+    "name": "Neo Perion Solutions"
+  }
+}
