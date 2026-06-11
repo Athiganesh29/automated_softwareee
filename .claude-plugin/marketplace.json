@@ -1,7 +1,7 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "neoperion-plugins",
   "owner": {
-    "name": "Anthropic"
+    "name": "Neo Perion Solutions"
   },
   "plugins": [
     {
